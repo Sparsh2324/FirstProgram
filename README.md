@@ -1,4 +1,4 @@
 # FirstProgram
 This is my first Repo
 <br>
-Author : Sandesh Jagtap
+Author : Sandesh M Jagtap
